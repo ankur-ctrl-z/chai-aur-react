@@ -1,6 +1,6 @@
 Welcome to the "Chai aur React" repository! 🚀
 
-About This repository is your go-to resource for mastering React, guided by the expert instructor, Hitesh Chaudhary. From foundational concepts to advanced techniques, each lesson is meticulously explained with clear code examples and insightful comments.
+About This repository is your go-to resource for mastering React, guided by the expert instructor, Hitesh Chaudhary. From foundational concepts to advanced techniques, each lesson is meticulously explained with clear code examples and insightful comments. 
 
 What's Inside  
 
