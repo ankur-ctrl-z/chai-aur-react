@@ -1,6 +1,6 @@
 # Notes for context api
 
-## ThemeBtn UI
+## ThemeBtn UI  
 
 ```javascript
 export default function ThemeBtn() {
